@@ -37,9 +37,6 @@
 [submodule "VapourSynth-TCanny"]
 	path = VapourSynth-TCanny
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny.git
-[submodule "VapourSynth-FFT3DFilter"]
-	path = VapourSynth-FFT3DFilter
-	url = https://github.com/VFR-maniac/VapourSynth-FFT3DFilter
 [submodule "VapourSynth-DeLogo"]
 	path = VapourSynth-DeLogo
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeLogo.git
@@ -64,3 +61,6 @@
 [submodule "VapourSynth-script"]
 	path = VapourSynth-script
 	url = https://github.com/mawen1250/VapourSynth-script.git
+[submodule "fft3dfilter"]
+	path = fft3dfilter
+	url = https://github.com/pinterf/fft3dfilter.git
