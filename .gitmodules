@@ -1,0 +1,66 @@
+[submodule "L-SMASH-Works"]
+	path = L-SMASH-Works
+	url = https://github.com/HomeOfAviSynthPlusEvolution/L-SMASH-Works.git
+[submodule "VapourSynth-Bilateral"]
+	path = VapourSynth-Bilateral
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Bilateral.git
+[submodule "vapoursynth-nnedi3"]
+	path = vapoursynth-nnedi3
+	url = https://github.com/dubhater/vapoursynth-nnedi3.git
+[submodule "VapourSynth-EEDI2"]
+	path = VapourSynth-EEDI2
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI2.git
+[submodule "VapourSynth-EEDI3"]
+	path = VapourSynth-EEDI3
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3.git
+[submodule "fmtconv"]
+	path = fmtconv
+	url = https://github.com/EleonoreMizo/fmtconv.git
+[submodule "KNLMeansCL"]
+	path = KNLMeansCL
+	url = https://github.com/Khanattila/KNLMeansCL.git
+[submodule "VapourSynth-BM3D"]
+	path = VapourSynth-BM3D
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-BM3D.git
+[submodule "VapourSynth-CTMF"]
+	path = VapourSynth-CTMF
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-CTMF.git
+[submodule "flash3kyuu_deband"]
+	path = flash3kyuu_deband
+	url = https://github.com/SAPikachu/flash3kyuu_deband.git
+[submodule "vapoursynth-histogram"]
+	path = vapoursynth-histogram
+	url = https://github.com/dubhater/vapoursynth-histogram.git
+[submodule "vapoursynth-msmoosh"]
+	path = vapoursynth-msmoosh
+	url = https://github.com/dubhater/vapoursynth-msmoosh.git
+[submodule "VapourSynth-TCanny"]
+	path = VapourSynth-TCanny
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-TCanny.git
+[submodule "VapourSynth-FFT3DFilter"]
+	path = VapourSynth-FFT3DFilter
+	url = https://github.com/VFR-maniac/VapourSynth-FFT3DFilter
+[submodule "VapourSynth-DeLogo"]
+	path = VapourSynth-DeLogo
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-DeLogo.git
+[submodule "vapoursynth-mvtools"]
+	path = vapoursynth-mvtools
+	url = https://github.com/dubhater/vapoursynth-mvtools.git
+[submodule "VapourSynth-Retinex"]
+	path = VapourSynth-Retinex
+	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Retinex.git
+[submodule "descale"]
+	path = descale
+	url = https://github.com/Irrational-Encoding-Wizardry/descale.git
+[submodule "havsfunc"]
+	path = havsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/havsfunc.git
+[submodule "vapoursynth-adjust"]
+	path = vapoursynth-adjust
+	url = https://github.com/dubhater/vapoursynth-adjust.git
+[submodule "mvsfunc"]
+	path = mvsfunc
+	url = https://github.com/HomeOfVapourSynthEvolution/mvsfunc.git
+[submodule "VapourSynth-script"]
+	path = VapourSynth-script
+	url = https://github.com/mawen1250/VapourSynth-script.git
