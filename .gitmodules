@@ -64,3 +64,6 @@
 [submodule "fft3dfilter"]
 	path = fft3dfilter
 	url = https://github.com/pinterf/fft3dfilter.git
+[submodule "ffms2"]
+	path = ffms2
+	url = https://github.com/FFMS/ffms2.git
